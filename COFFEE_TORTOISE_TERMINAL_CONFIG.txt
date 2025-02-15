@@ -1,0 +1,45 @@
+
+
+# Each value must be on a new line!
+# Format of values: Name=Value
+
+
+# Main window
+
+WND_SCALE=.8
+WND_OPACITY=1
+WND_TITLE=CoffeeTortoiseTerminal
+WND_ICON_PATH="C:\Users\coffeetortoise\Desktop\MyFiles\CompFiles\Pictures\Avatars\CoffeeTortoise.png"
+
+
+# Toolbar widget
+
+TB_BACKGROUND_COLOR=0,0,0
+TB_BUTTONS_COLOR=255,255,255
+TB_FONT_COLOR=0,0,0
+
+
+# Terminal widget
+
+TERMINAL_BG_COLOR=0,0,0
+TERMINAL_FONT_COLOR=176,0,0
+TERMINAL_PROMPT_SYMBOL=🐢
+TERMINAL_BG_IMAGE="C:\Users\coffeetortoise\Desktop\MyFiles\CompFiles\Pictures\JustPictures\ArchTheme2.png"
+TERMINAL_IMAGE_SCALE=1.5
+CREATE_NEW_TERMINAL_WORD=create new
+DELETE_TERMINAL_WORD=delete terminal
+SWITCH_TO_TERMINAL_WORD=switch
+CLEAR_CMD_STORY_WORD=clear story
+PREV_COMMAND_WORD=prev
+QUIT_WORD=close
+
+# Input bar widget
+
+INPB_BACKGROUND_COLOR=0,0,0
+INPB_FONT_COLOR=255,255,0
+
+
+# Common
+
+FONT_PATH="C:\Users\coffeetortoise\Desktop\MyFiles\CompFiles\Fonts\ST-Warmovie-noncommercial.ttf"
+OUTPUT_ENCODING=cp866
